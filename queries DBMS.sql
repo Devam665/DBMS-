@@ -7,10 +7,10 @@ consumer_name varchar(225));
 
 insert into item(item_id,item_name,item_price,item_qntity,consumer_name) value (1,'Shoes',6000,1,'Devam');
 insert into item(item_id,item_name,item_price,item_qntity,consumer_name) value (2,'Shampoo',600,2,'Dishaan');
-insert into item(item_id,item_name,item_price,item_qntity,consumer_name) value (3,'Diapers',1500,3,'Krishna');
-insert into item(item_id, item_name,item_price,item_qntity,consumer_name) value (4,'Kurta',1000,1,'Rashid');
-insert into item(item_id,item_name,item_price,item_qntity,consumer_name) value (5,'Maggi',60,1,'Rishab');
-insert into item(item_id,item_name,item_price,item_qntity,consumer_name) value (6,'Buds',2000,1,'vansh');
+insert into item(item_id,item_name,item_price,item_qntity,consumer_name) value (3,'Diapers',1500,3,'Varma');
+insert into item(item_id, item_name,item_price,item_qntity,consumer_name) value (4,'Kurta',1000,1,'Varun');
+insert into item(item_id,item_name,item_price,item_qntity,consumer_name) value (5,'Maggi',60,1,'aditya');
+insert into item(item_id,item_name,item_price,item_qntity,consumer_name) value (6,'Buds',2000,1,'Vanshika');
 
 
 select * from item;
